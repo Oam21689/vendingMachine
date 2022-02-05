@@ -23,4 +23,4 @@ Type the following command:
        git clone https://github.com/Oam21689/vendingMachine.git
        cd vendingMachine
        cd src
-       open VendingMachine.java
+       open VendingM.java
