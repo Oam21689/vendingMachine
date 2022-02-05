@@ -17,8 +17,9 @@ If not installed, here are some links:
 
 # Execution
 
-  * Open Cmd / Terminal
-  * Type the following command
+Open Cmd / Terminal
+Type the following command:
+  
        git clone https://github.com/Oam21689/vendingMachine.git
        cd vendingMachine
        cd src
